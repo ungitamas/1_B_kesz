@@ -1,0 +1,987 @@
+The Weeknd - 25
+Ed Sheeran - 24
+Lewis Capaldi - 4
+Post Malone - 20
+Tones And I - 1
+Drake - 35
+The Kid LAROI - 3
+Harry Styles - 10
+Imagine Dragons - 13
+Glass Animals - 1
+The Chainsmokers - 11
+Shawn Mendes - 11
+James Arthur - 7
+Billie Eilish - 29
+The Neighbourhood - 4
+Dua Lipa - 13
+Juice WRLD - 16
+Queen - 11
+Hozier - 3
+Lady Gaga - 12
+Justin Bieber - 18
+John Legend - 1
+Vance Joy - 3
+OneRepublic - 9
+Travis Scott - 11
+Ariana Grande - 21
+XXXTENTACION - 15
+Macklemore & Ryan Lewis - 2
+Twenty One Pilots - 6
+Avicii - 8
+Passenger - 1
+Kendrick Lamar - 14
+Tom Odell - 1
+Calvin Harris - 15
+Lil Uzi Vert - 7
+Olivia Rodrigo - 10
+Camila Cabello - 7
+Marshmello - 8
+Eminem - 19
+DJ Snake - 6
+J. Cole - 8
+Arctic Monkeys - 8
+Coldplay - 13
+The Killers - 4
+Sam Smith - 9
+Lil Nas X - 7
+Halsey - 4
+Major Lazer - 4
+Maroon 5 - 16
+Bad Bunny - 37
+SAINt JHN - 1
+Mark Ronson - 2
+Bruno Mars - 15
+Alan Walker - 6
+Mike Posner - 2
+French Montana - 2
+Oasis - 2
+Nirvana - 4
+24kGoldn - 2
+BTS - 13
+Elton John - 6
+Roddy Ricch - 2
+Linkin Park - 9
+The Police - 3
+Adele - 14
+Wiz Khalifa - 2
+Lukas Graham - 2
+Jason Mraz - 3
+Journey - 1
+Sia - 9
+Charlie Puth - 7
+Lauv - 3
+Luis Fonsi - 3
+Doja Cat - 12
+Guns N' Roses - 6
+5 Seconds of Summer - 4
+Justin Timberlake - 6
+Danny Ocean - 3
+Dean Lewis - 2
+benny blanco - 2
+a-ha - 1
+Foster The People - 1
+Taylor Swift - 39
+DaBaby - 4
+Lord Huron - 1
+TOTO - 2
+Miley Cyrus - 10
+Cardi B - 6
+ZAYN - 3
+Gotye - 1
+OMI - 1
+Powfu - 1
+Michael Jackson - 7
+Ava Max - 4
+J Balvin - 14
+Trevor Daniel - 1
+Bizarrap - 2
+DNCE - 1
+WALK THE MOON - 1
+Mariah Carey - 2
+Panic! At The Disco - 3
+Childish Gambino - 4
+Alec Benjamin - 2
+David Guetta - 16
+Future - 5
+Christina Perri - 3
+Coolio - 1
+Ellie Goulding - 6
+White Noise Baby Sleep - 1
+The White Stripes - 1
+Måneskin - 3
+Eagles - 2
+SZA - 7
+KAROL G - 7
+Bastille - 1
+Beyoncé - 11
+Tame Impala - 4
+Clean Bandit - 5
+Anne-Marie - 1
+Zedd - 4
+Arizona Zervas - 1
+Khalid - 10
+Fleetwood Mac - 5
+Shakira - 8
+Conan Gray - 2
+Radiohead - 3
+Earth Wind & Fire - 2
+The Goo Goo Dolls - 1
+Don Omar - 2
+Champs United - 1
+Farruko - 2
+Manuel Turizo - 3
+Bon Jovi - 4
+NF - 4
+AC/DC - 5
+Brenda Lee - 1
+Bing Crosby - 5
+Frank Sinatra - 3
+Dean Martin - 2
+Ella Fitzgerald - 1
+The Ray Conniff Singers - 1
+Bobby Vee - 1
+Burl Ives - 1
+Ray Conniff - 1
+Brook Benton - 1
+Rihanna - 18
+The Weavers - 1
+Mahalia Jackson - 1
+Fifth Harmony - 2
+Martin Garrix - 5
+Tears For Fears - 1
+Kygo - 10
+The Starlite Singers - 1
+gnash - 1
+Dynoro - 1
+Lil Baby - 4
+Train - 3
+Offset - 1
+Jonas Brothers - 3
+MAGIC! - 1
+Bebe Rexha - 2
+Alessia Cara - 3
+Snoop Dogg - 2
+Milky Chance - 1
+Pitbull - 7
+50 Cent - 6
+Selena Gomez - 11
+Logic - 3
+Dr. Dre - 3
+Tyga - 1
+Zara Larsson - 4
+Daddy Yankee - 7
+Pharrell Williams - 1
+Kanye West - 20
+JAY-Z - 4
+Katy Perry - 14
+Creedence Clearwater Revival - 3
+The Script - 4
+Backstreet Boys - 2
+Ruth B. - 2
+Regard - 1
+Internet Money - 1
+One Direction - 12
+Tate McRae - 1
+Jhayco - 2
+Jessie J - 4
+Axwell /\ Ingrosso - 1
+Gorillaz - 3
+Tyler The Creator - 3
+Red Hot Chili Peppers - 9
+Kings of Leon - 2
+Black Eyed Peas - 8
+Metallica - 5
+Lil Tecca - 2
+Lil Mosey - 2
+Rauw Alejandro - 9
+Keane - 2
+DJ Khaled - 5
+G-Eazy - 4
+MKTO - 1
+blackbear - 3
+Portugal. The Man - 1
+Maluma - 7
+Wham! - 2
+Carly Rae Jepsen - 2
+R.E.M. - 1
+Lynyrd Skynyrd - 2
+Joji - 5
+Snow Patrol - 1
+Masked Wolf - 1
+Gym Class Heroes - 2
+Outkast - 2
+Eurythmics - 1
+Julia Michaels - 3
+Marvin Gaye - 1
+System Of A Down - 5
+Hailee Steinfeld - 5
+Daniel Caesar - 3
+Unknown - 5
+Desiigner - 1
+P!nk - 5
+Robin Schulz - 2
+Survivor - 1
+Lana Del Rey - 9
+Lorde - 4
+Calum Scott - 2
+Nio Garcia - 3
+James Bay - 2
+Anuel AA - 6
+The Beatles - 5
+The Lumineers - 2
+Joel Corry - 3
+Capital Cities - 1
+Bryson Tiller - 2
+Demi Lovato - 5
+Pedro Capó - 1
+Meek Mill - 1
+USHER - 3
+Tiësto - 4
+Rema - 2
+ABBA - 3
+Fetty Wap - 2
+Kate Bush - 1
+21 Savage - 7
+Loud Luxury - 1
+The Fray - 2
+A$AP Rocky - 5
+The Walters - 1
+Topic - 1
+Miguel - 2
+Jawsh 685 - 1
+Jonas Blue - 4
+Lil Wayne - 6
+Fall Out Boy - 6
+Jason Derulo - 7
+Britney Spears - 5
+Whitney Houston - 2
+Rudimental - 1
+Dire Straits - 3
+Jack Ü - 1
+GAYLE - 1
+Bryan Adams - 3
+Lost Frequencies - 3
+Duncan Laurence - 1
+Pop Smoke - 9
+Lil Peep - 4
+Chris Brown - 6
+LISA - 1
+Steve Lacy - 2
+Ali Gatie - 1
+JP Saxe - 1
+Metro Boomin - 4
+Kodaline - 1
+Kungs - 1
+The Cranberries - 2
+fun. - 2
+Kesha - 3
+Jung Kook - 1
+Sean Paul - 3
+Giveon - 1
+Papa Roach - 1
+The Rolling Stones - 5
+George Ezra - 2
+Nelly Furtado - 3
+A Great Big World - 1
+Bazzi - 4
+The Notorious B.I.G. - 4
+Kodak Black - 3
+Plain White T's - 1
+Flo Rida - 9
+Lilly Wood and The Prick - 1
+Dan + Shay - 3
+Meghan Trainor - 7
+BØRNS - 1
+Aerosmith - 2
+Smash Mouth - 1
+Daft Punk - 4
+Sheck Wes - 1
+Kali Uchis - 3
+YNW Melly - 3
+Foo Fighters - 4
+Nicki Minaj - 5
+WILLOW - 1
+Spice Girls - 1
+M83 - 1
+Cigarettes After Sex - 3
+Ice Cube - 2
+Cyndi Lauper - 2
+Liam Payne - 2
+Mabel - 1
+Kina - 2
+Swedish House Mafia - 2
+blink-182 - 3
+Lizzo - 5
+Eslabon Armado - 2
+Taio Cruz - 2
+BlocBoy JB - 1
+Gnarls Barkley - 1
+Elley Duhé - 1
+Frank Ocean - 7
+MEDUZA - 3
+Of Monsters and Men - 1
+Jaymes Young - 2
+Jay Wheeler - 1
+The Verve - 1
+Y2K - 1
+Evanescence - 2
+Mr. Probz - 1
+U2 - 4
+The Clash - 1
+Nicky Jam - 5
+Green Day - 7
+KYLE - 1
+Disclosure - 2
+Rae Sremmurd - 5
+Ben E. King - 1
+The Drifters - 1
+Shaggy - 1
+TLC - 1
+Alicia Keys - 4
+Black Sabbath - 2
+Zac Efron - 1
+Bee Gees - 3
+Surfaces - 1
+Rag'n'Bone Man - 1
+Surf Curse - 1
+Riton - 1
+Lunay - 1
+Migos - 7
+R. City - 1
+Van Morrison - 1
+Dominic Fike - 1
+JVKE - 1
+Dennis Lloyd - 1
+American Authors - 1
+Led Zeppelin - 3
+Hoobastank - 1
+Beach House - 1
+Nico & Vinz - 1
+Gucci Mane - 2
+KALEO - 1
+BLACKPINK - 9
+Maggie Lindemann - 1
+Electric Light Orchestra - 1
+Niall Horan - 3
+Starley - 1
+ROSALÍA - 5
+The Animals - 1
+Surf Mesa - 1
+Daryl Hall & John Oates - 3
+Paulo Londra - 3
+George Michael - 2
+Nickelback - 2
+Bob Marley & The Wailers - 6
+Mario - 1
+Zion & Lennox - 3
+Mustard - 2
+Ty Dolla $ign - 1
+Florence + The Machine - 2
+NATTI NATASHA - 1
+Amy Winehouse - 4
+Polo G - 4
+Rachel Platten - 1
+KISS - 2
+The Offspring - 3
+Galantis - 3
+Rosa Linn - 1
+girl in red - 2
+A Boogie Wit da Hoodie - 4
+Macklemore - 1
+Tainy - 2
+3 Doors Down - 2
+DRAM - 1
+The Jackson 5 - 1
+d4vd - 2
+4 Non Blondes - 1
+Sam Hunt - 1
+GROUPLOVE - 1
+Michael Bublé - 3
+James Blunt - 1
+Stephen Sanchez - 2
+Owl City - 2
+Edward Sharpe & The Magnetic Zeros - 1
+My Chemical Romance - 2
+The Temptations - 1
+Rage Against The Machine - 1
+Don Toliver - 2
+Van Halen - 1
+Noah Cyrus - 1
+Akon - 2
+Iyaz - 1
+Ozuna - 12
+Chris Stapleton - 1
+Tove Lo - 4
+Robin Thicke - 1
+Pink Floyd - 4
+Aaron Smith - 1
+Simple Minds - 1
+Rob $tone - 1
+Empire of the Sun - 1
+Jimmy Eat World - 1
+Kenny Loggins - 2
+Petit Biscuit - 1
+Becky G - 5
+Mike Perry - 1
+Yng Lvcas - 1
+AURORA - 1
+Leona Lewis - 1
+Enrique Iglesias - 3
+CKay - 2
+AWOLNATION - 1
+Piso 21 - 5
+Pixies - 1
+Elvis Presley - 3
+Billy Joel - 4
+Jeremy Zucker - 3
+Blur - 1
+Birdy - 1
+Cage The Elephant - 2
+alt-J - 1
+6ix9ine - 3
+Keala Settle - 1
+Nelly - 4
+Toploader - 1
+Tracy Chapman - 1
+Chord Overstreet - 1
+Wisin - 1
+Franz Ferdinand - 1
+Jack Harlow - 4
+Gesaffelstein - 1
+Bobby Helms - 1
+Rick Astley - 1
+Melanie Martinez - 2
+BANNERS - 1
+Deorro - 1
+Kid Cudi - 4
+Jack Johnson - 2
+Icona Pop - 1
+Martin Jensen - 1
+THE SCOTTS - 1
+Neon Trees - 1
+Destiny's Child - 2
+CJ - 1
+LP - 1
+Boston - 1
+Sebastian Yatra - 6
+Nicky Youre - 1
+Playboi Carti - 4
+Cris Mj - 1
+Aminé - 2
+Ne-Yo - 2
+Big Sean - 2
+Grupo Frontera - 3
+Avril Lavigne - 2
+The 1975 - 1
+The Wanted - 1
+Selena Gomez & The Scene - 2
+Mau y Ricky - 1
+Mr.Kitty - 1
+B.o.B - 2
+Foreigner - 1
+Little Mix - 4
+ACRAZE - 1
+MGMT - 3
+Blackstreet - 1
+BENEE - 1
+Aventura - 3
+Flume - 1
+X Ambassadors - 2
+Feid - 4
+Luke Combs - 5
+Men At Work - 1
+Wallows - 1
+Alok - 1
+Paramore - 3
+Bill Withers - 2
+Two Door Cinema Club - 1
+The Mamas & The Papas - 1
+PinkPantheress - 2
+Disturbed - 2
+Jon Bellion - 1
+Morgan Wallen - 6
+Labrinth - 5
+Lil Tjay - 3
+CNCO - 2
+Vanessa Carlton - 1
+Felix Jaehn - 1
+Young Thug - 3
+Yandel - 1
+A$AP Ferg - 1
+Alex & Sierra - 1
+Hippie Sabotage - 1
+Idina Menzel - 1
+Iggy Azalea - 2
+Sean Kingston - 1
+will.i.am - 1
+Dalex - 2
+Counting Crows - 1
+Sleepy Hallow - 1
+Soft Cell - 1
+FIFTY FIFTY - 1
+2Pac - 5
+David Kushner - 1
+Timbaland - 3
+Common - 1
+Katrina & The Waves - 1
+Reik - 3
+The Proclaimers - 1
+Andy Williams - 1
+The Outfield - 1
+dhruv - 1
+Sech - 5
+Sub Urban - 1
+Sublime - 2
+M.I.A. - 1
+Fort Minor - 1
+Cheat Codes - 3
+StaySolidRocky - 1
+Rixton - 1
+Estelle - 1
+Weezer - 2
+AJR - 1
+Russ - 3
+Haddaway - 1
+DMX - 1
+Bonnie Tyler - 1
+Joel Adams - 1
+Myke Towers - 4
+Don McLean - 1
+Alesso - 1
+Seafret - 1
+Three Days Grace - 2
+Mumford & Sons - 3
+Machine Gun Kelly - 4
+Plan B - 2
+Jimi Hendrix - 1
+Romeo Santos - 4
+John Mayer - 4
+JACKBOYS - 1
+Carlos Vives - 2
+ATB - 1
+Sixpence None The Richer - 1
+Paloma Faith - 1
+Scorpions - 2
+Lil Dicky - 1
+Mora - 3
+Neil Diamond - 1
+Darius Rucker - 1
+Ashe - 1
+John Newman - 1
+The Vamps - 2
+Jimin - 1
+Lil Pump - 1
+TINI - 1
+Slipknot - 3
+Sofía Reyes - 1
+Otis Redding - 1
+The Cure - 2
+LMFAO - 1
+Kelly Clarkson - 4
+Patrick Watson - 1
+FRENSHIP - 1
+Chief Keef - 1
+Baby Keem - 2
+Kiiara - 1
+Rich The Kid - 1
+Phil Collins - 2
+Tom Petty - 1
+Zac Brown Band - 1
+Clairo - 3
+RAYE - 1
+Kansas - 2
+No Doubt - 1
+Natalie Imbruglia - 1
+Rise Against - 1
+Mac Miller - 4
+Pinkfong - 1
+PARTYNEXTDOOR - 2
+Jay Sean - 1
+Flipp Dinero - 1
+Chris Jedi - 1
+BoyWithUke - 1
+Rex Orange County - 3
+James TW - 1
+Far East Movement - 1
+Arcángel - 2
+Los Legendarios - 1
+Jeremih - 4
+Bruce Springsteen - 2
+zzoilo - 1
+Corinne Bailey Rae - 1
+Pink Sweat$ - 1
+Rita Ora - 3
+Rascal Flatts - 1
+Mac DeMarco - 2
+Blue Swede - 1
+Anitta - 2
+Troye Sivan - 3
+Luis Miguel - 2
+Fugees - 1
+Two Feet - 2
+grandson - 1
+The Game - 1
+Soundgarden - 1
+Skillet - 1
+Jax Jones - 1
+Extreme - 1
+America - 1
+R. Kelly - 1
+Ozzy Osbourne - 1
+Silk City - 1
+Waka Flocka Flame - 1
+Snakehips - 1
+Stromae - 2
+Sam Fischer - 1
+Bon Iver - 1
+John Lennon - 2
+The Calling - 1
+The xx - 1
+Redbone - 1
+Gloria Gaynor - 1
+Travie McCoy - 1
+R3HAB - 1
+Beach Weather - 1
+Eyedress - 1
+Lil Xan - 1
+Ricky Martin - 1
+$uicideboy$ - 3
+TV Girl - 2
+T-Pain - 1
+Lou Bega - 1
+Naughty Boy - 1
+Culture Club - 1
+Zach Bryan - 1
+Thomas Rhett - 1
+Tropical Florida - 2
+Years & Years - 1
+Boza - 1
+Audioslave - 1
+Mitski - 1
+Soulja Boy - 2
+Gera MX - 1
+Cascada - 1
+Fitz and The Tantrums - 1
+Johnny Cash - 1
+Los Enanitos Verdes - 1
+Gente De Zona - 1
+Ritt Momney - 1
+Stevie Wonder - 2
+Camilo - 3
+Bring Me The Horizon - 1
+Burak Yeter - 1
+Stealers Wheel - 1
+Eiffel 65 - 1
+Sam Feldt - 1
+Jay Rock - 1
+Chino & Nacho - 1
+Louis Tomlinson - 1
+ScHoolboy Q - 1
+Natasha Bedingfield - 1
+Muse - 2
+JP Cooper - 1
+Duke Dumont - 1
+Yusuf / Cat Stevens - 1
+UB40 - 1
+Gwen Stefani - 2
+Central Cee - 1
+Marc Anthony - 1
+Dexys Midnight Runners - 1
+Paul Simon - 1
+Famous Dex - 2
+THE ANXIETY - 1
+Bacilos - 1
+Colbie Caillat - 1
+Chase Atlantic - 2
+The Kooks - 1
+Tom Walker - 1
+Dolly Parton - 2
+Mötley Crüe - 1
+Depeche Mode - 1
+King Princess - 1
+Natalia Lafourcade - 1
+Natanael Cano - 1
+Marc Seguí - 1
+Oliver Tree - 2
+Auli'i Cravalho - 1
+JENNIE - 1
+Jet - 1
+Alejandro Fernández - 1
+Yot Club - 1
+The Strokes - 2
+Dove Cameron - 1
+Manu Chao - 1
+Christian Nodal - 3
+The Cinematic Orchestra - 1
+Europe - 1
+Aretha Franklin - 2
+Daniel Powter - 1
+Tory Lanez - 2
+MØ - 1
+The Who - 1
+Hotel Ugly - 1
+Echosmith - 1
+Loren Allred - 1
+Peso Pluma - 2
+The All-American Rejects - 1
+Kordhell - 1
+Ski Mask The Slump God - 2
+Cher - 1
+AronChupa - 1
+The Temper Trap - 1
+Lil Skies - 3
+New West - 1
+Morat - 3
+Majestic - 1
+Rick Springfield - 1
+NewJeans - 3
+Wheatus - 1
+John Denver - 1
+Summer Walker - 1
+Dayglow - 1
+League of Legends - 1
+Commodores - 1
+ZZ Top - 1
+Nick Jonas - 2
+The Smashing Pumpkins - 1
+Sheppard - 1
+Olivia Newton-John - 1
+Breaking Benjamin - 1
+Daya - 2
+José Feliciano - 1
+Saweetie - 1
+DJ Luian - 1
+Roxette - 1
+Trippie Redd - 4
+The Pussycat Dolls - 1
+Kehlani - 1
+Simon & Garfunkel - 2
+Buffalo Springfield - 1
+YOASOBI - 1
+Fergie - 2
+James Hype - 1
+Hombres G - 1
+Hugh Jackman - 1
+PUBLIC - 1
+Carrie Underwood - 1
+Brett Young - 1
+Rupert Holmes - 1
+Incubus - 1
+Chris Isaak - 1
+Avenged Sevenfold - 1
+Thirty Seconds To Mars - 1
+Shania Twain - 2
+Ed Maverick - 1
+Astrid S - 1
+Lifehouse - 1
+Steve Aoki - 1
+Diddy - 1
+Junior H - 1
+Cutting Crew - 1
+Eagle-Eye Cherry - 1
+Limp Bizkit - 2
+NLE Choppa - 3
+Ziv Zaifman - 1
+Blue Öyster Cult - 1
+Lykke Li - 1
+Pearl Jam - 2
+Rels B - 1
+T.I. - 2
+Louis Armstrong - 1
+SHAED - 1
+Luke Bryan - 1
+Dwayne Johnson - 1
+The Paper Kites - 1
+Wolfine - 1
+Sasha Alex Sloan - 1
+Bishop Briggs - 1
+The Doobie Brothers - 1
+Crowded House - 1
+*NSYNC - 1
+Lauren Daigle - 1
+La Oreja de Van Gogh - 1
+Starship - 2
+Steppenwolf - 1
+Rammstein - 1
+The Cardigans - 1
+Libianca - 1
+Céline Dion - 1
+Ricky Montgomery - 2
+Don Henley - 1
+Jarabe De Palo - 1
+Pia Mia - 1
+Chance the Rapper - 1
+Sabrina Carpenter - 1
+All Time Low - 1
+The Beach Boys - 1
+Cosculluela - 1
+Benson Boone - 1
+BROCKHAMPTON - 1
+Vacations - 1
+Band Aid - 1
+Ramz - 1
+Timmy Trumpet - 1
+GoldLink - 1
+Al Green - 1
+Deep Purple - 1
+SYML - 1
+Michael Sembello - 1
+Alexandra Stan - 1
+Super Yei - 1
+FISHER - 1
+Dave - 2
+Armin van Buuren - 1
+MARINA - 1
+Alexander 23 - 1
+Dusty Springfield - 1
+Carlos Baute - 1
+The Smiths - 1
+Kane Brown - 2
+Calboy - 1
+Roar - 1
+t.A.T.u. - 1
+Christmas Hits - 1
+The Rare Occasions - 1
+Nate Dogg - 1
+Warren G - 1
+INTERWORLD - 1
+Ashnikko - 1
+House Of Pain - 1
+Ciara - 1
+George Harrison - 1
+Jennifer Lopez - 2
+HVME - 1
+Ayo & Teo - 1
+IAmChino - 1
+Quevedo - 2
+Andy Grammer - 2
+Nacho - 1
+2 Chainz - 2
+José González - 1
+Elle King - 1
+Quality Control - 1
+Jesse & Joy - 1
+Fujii Kaze - 1
+Robbie Williams - 1
+Rvssian - 1
+Yiruma - 1
+Ginuwine - 1
+Ghost - 1
+Bobby Shmurda - 1
+Mura Masa - 1
+Roy Orbison - 1
+The Black Keys - 1
+Ingratax - 1
+Gabry Ponte - 1
+Lil Jon & The East Side Boyz - 1
+Sam Cooke - 1
+Ella Mai - 1
+The Righteous Brothers - 1
+Diplo - 1
+Mobb Deep - 1
+Norman Greenbaum - 1
+Tego Calderón - 1
+The Pointer Sisters - 1
+Run–D.M.C. - 1
+Matt Simons - 1
+Carolina Gaitán & La Gaita - 1
+Roy Woods - 1
+Social House - 1
+David Bowie - 2
+The Human League - 1
+Sum 41 - 1
+Spin Doctors - 1
+Soda Stereo - 1
+Third Eye Blind - 1
+Skrillex - 1
+Fuerza Regida - 1
+Aqua - 1
+Norah Jones - 1
+Omarion - 1
+NEIKED - 1
+Declan McKenna - 1
+Various Artists - 1
+Steve Miller Band - 1
+Vegedream - 1
+The Living Tombstone - 1
+Duki - 1
+Luniz - 1
+Savage Garden - 1
+Kid Rock - 1
+Maren Morris - 1
+Jordin Sparks - 1
+Jubël - 1
+SAYGRACE - 1
+Coyote Theory - 1
+Sufjan Stevens - 1
+Calibre 50 - 1
+Cochise - 1
+Eric Clapton - 2
+Baby Bash - 1
+6LACK - 1
+Eric Carmen - 1
+Talking Heads - 1
+Jess Glynne - 2
+Grover Washington Jr. - 1
+Imanbek - 1
+Chuck Berry - 1
+Olivia O'Brien - 1
+Four Tops - 1
+Mon Laferte - 1
+Drowning Pool - 1
+Etta James - 1
+Chris Rea - 1
+The Red Jumpsuit Apparatus - 1
+Peter Bjorn and John - 1
+Beach Bunny - 1
+Belinda Carlisle - 1
+Blind Melon - 1
+Frankie Valli & The Four Seasons - 1
+Hillsong UNITED - 1
+Øneheart - 1
+TWICE - 1
+DVRST - 1
+Yann Tiersen - 1
+Trey Songz - 1
+Prince - 1
+Alien Ant Farm - 1
+PSY - 1
+Kylie Minogue - 1
+flora cash - 1
+Pablo Alborán - 1
+Brent Faiyaz - 1
+Pritam - 1
+Tina Turner - 1
+Mother Mother - 1
+Tiago PZK - 1
+Alex Rose - 2
+Haley Reinhart - 1
+Jason Aldean - 1
+Young Money - 1
+Red Velvet - 1
+Rusted Root - 1
+Vundabar - 1
+Rich Music LTD - 1
+Bella Poarch - 1
+The Turtles - 1
+Cults - 1
+Carly Simon - 1
+Aya Nakamura - 1
+Los Ángeles Azules - 1
+Shouse - 1
+Lou Reed - 1
+The Supremes - 1
+Fountains Of Wayne - 1
+Sara Bareilles - 1
+Florida Georgia Line - 1
+Fools Garden - 1
+Vampire Weekend - 1
+Ryan Castro - 1
+Madison Beer - 1
+Gunna - 1
+Korn - 1
+Lele Pons - 1
+León Larregui - 1
+SLANDER - 1
+Blondie - 1
+The Strumbellas - 1
